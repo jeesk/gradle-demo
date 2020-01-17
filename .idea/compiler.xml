@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gradle.client.main" target="1.8" />
+      <module name="gradle.client.test" target="1.8" />
+      <module name="gradle.main" target="1.8" />
+      <module name="gradle.server1.main" target="1.8" />
+      <module name="gradle.server1.test" target="1.8" />
+      <module name="gradle.test" target="1.8" />
+      <module name="gradledemo.buildSrc.main" target="1.8" />
+      <module name="gradledemo.buildSrc.test" target="1.8" />
+      <module name="gradledemo.client.main" target="1.8" />
+      <module name="gradledemo.client.test" target="1.8" />
+      <module name="gradledemo.main" target="1.8" />
+      <module name="gradledemo.server1.main" target="1.8" />
+      <module name="gradledemo.server1.test" target="1.8" />
+      <module name="gradledemo.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

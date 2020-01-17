@@ -1,0 +1,12 @@
+plugins {
+    id 'java'
+}
+
+group 'com.shanjiancaofu'
+version '1.0-SNAPSHOT'
+
+
+// 导入上项目依赖
+dependencies {
+    compile project(":client")
+}
